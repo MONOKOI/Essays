@@ -18,6 +18,34 @@ I Claim That Preponderance Of Consensus Renders Dull Nuances Of Those Tribal Or 
       A =>  A =>  
       B => 
 
+### Points As Intersecting Lines
+
+Intersecting
+
+           |
+        = A?B =
+           |
+ 
+ Parallel
+ 
+         => A =>
+            ?
+         => B =>
+
+
+         => A =>
+            ?
+         <= B <=
+
+Tangents
+
+         => A => 
+         
+            /  
+           B
+         /
+         
+         
 ### Chicken
 
      A => o <= B
@@ -53,5 +81,13 @@ I Claim That Preponderance Of Consensus Renders Dull Nuances Of Those Tribal Or 
       
 ## Three
 
+### Points
+
+                  A
+                /   \
+               B  _  C
+               
+               
+              
 
 
