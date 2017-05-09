@@ -14,29 +14,35 @@ I Claim That Preponderance Of Consensus Renders Dull Nuances Of Those Tribal Or 
 
 ### Chicken
 
-A => o <= B
+     A => o <= B
 
 ### Back To Back
 
-( A <=o=> B )
+     ( A <=o=> B )
 
 ### Tug of War
 
-A <=o=> B
+     A <=o=> B
 
 ### Rope Hanging
 
- /o\
-A   B
+      /o\
+     A   B
 
 
 ### Orbits And Pulses
 
+     A <= o => B
+
+         A =>
+     [   o   ]   
+      <= B
+
 ### Baton Passing
 
- => A
-    o
-    B =>
+      => A
+         o
+         B =>
 
 
 ## Three
