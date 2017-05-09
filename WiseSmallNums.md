@@ -12,6 +12,12 @@ I Claim That Preponderance Of Consensus Renders Dull Nuances Of Those Tribal Or 
 
 ## Two
 
+
+### Redundancy
+
+      A =>  A =>  
+      B => 
+
 ### Chicken
 
      A => o <= B
@@ -44,7 +50,7 @@ I Claim That Preponderance Of Consensus Renders Dull Nuances Of Those Tribal Or 
          o
          B =>
 
-
+      
 ## Three
 
 
